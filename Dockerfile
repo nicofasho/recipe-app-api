@@ -1,4 +1,4 @@
-FROM python:3.10.2-alpine3.15
+FROM python:3.10-alpine
 LABEL author="Christian Watson"
 
 ENV PYTHONUNBUFFERED 1
